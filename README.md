@@ -1,4 +1,4 @@
-<h1>Idea de portifolio</h1>
+<h1>Ideia de portifólio</h1>
 
 <h2>Sobre</h2>
 
